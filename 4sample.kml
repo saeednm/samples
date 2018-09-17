@@ -1,0 +1,176 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.1">
+  <Document>
+    <name>doc1</name>
+    <Style id="redColorIcon">
+      <IconStyle>
+        <color>ff0000ff</color>
+        
+        <scale>1.1000000000000001</scale>
+        
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="greenColorIcon">
+      <IconStyle>
+        <color>ff0000ff</color>
+        
+        <scale>1.1000000000000001</scale>
+        
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="yellowColorIcon">
+      <IconStyle>
+        <color>ff0000ff</color>
+        
+        <scale>1.1000000000000001</scale>
+        
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="orangeColorIcon">
+      <IconStyle>
+        <color>ff0000ff</color>
+        
+        <scale>1.1000000000000001</scale>
+        
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Folder>
+      <name>test</name>
+      
+      
+      <Placemark>
+        <name>12500</name>
+        <address>Viale Fulvio Testi, 176, 20092 Cinisello Balsamo MI, Italy</address>
+        <styleUrl>#redColorIcon</styleUrl>
+        <Point>
+          <coordinates>9.2269147,45.545658500000002</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>12501</name>
+        <address>Viale Fulvio Testi, 176, 20092 Cinisello Balsamo MI, Italy</address>
+        <styleUrl>#redColorIcon</styleUrl>
+        <Point>
+          <coordinates>9.2269147,45.545658500000002</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>12505</name>
+        <address>Via Cesare Battisti, 1, 21100 Varese VA, Italy</address>
+        <styleUrl>#yellowColorIcon</styleUrl>
+        <Point>
+          <coordinates>8.8250575999999992,45.8205989</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>12508</name>
+        <address>Via Antica Romana Occidentale, 39, 16039 Sestri Levante GE, Italy</address>
+        <styleUrl>#redColorIcon</styleUrl>
+        <Point>
+          <coordinates>9.4008281,44.276365400000003</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>12510</name>
+        <address>Via Antonio Vivaldi, 1, 20080 Basiglio MI, Italy</address>
+        <styleUrl>#yellowColorIcon</styleUrl>
+        <Point>
+          <coordinates>9.1631628000000003,45.363924900000001</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>12511</name>
+        <address>Via della Vittoria, 68, 20025 Legnano MI, Italy</address>
+        <styleUrl>#redColorIcon</styleUrl>
+        <Point>
+          <coordinates>8.9108990000000006,45.597365000000003</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>12512</name>
+        <address>Viale Giovanni Suzzani, 98, 20162 Milano MI, Italy</address>
+        <styleUrl>#yellowColorIcon</styleUrl>
+        <Point>
+          <coordinates>9.2025705999999996,45.513798899999998</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>12513</name>
+        <address>Via Pier Paolo Pasolini, 19, 20151 Milano MI, Italy</address>
+        <styleUrl>#redColorIcon</styleUrl>
+        <Point>
+          <coordinates>9.1010921000000007,45.508924399999998</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>12514</name>
+        <address>Via Giovanni Spadolini, 9A, 20141 Milano MI, Italy</address>
+        <styleUrl>#redColorIcon</styleUrl>
+        <Point>
+          <coordinates>9.1914990000000003,45.443185800000002</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>12515</name>
+        <address>Via Val Passiria, 1-7, 20139 Milano MI, Italy</address>
+        <styleUrl>#redColorIcon</styleUrl>
+        <Point>
+          <coordinates>9.2270090000000007,45.440843700000002</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>12516</name>
+        <address>Via Rieti, 2, 20096 Pioltello MI, Italy</address>
+        <styleUrl>#redColorIcon</styleUrl>
+        <Point>
+          <coordinates>9.3323090999999998,45.511716399999997</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>12517</name>
+        <address>Viale Monte Nero, 42, 20135 Milano MI, Italy</address>
+        <styleUrl>#redColorIcon</styleUrl>
+        <Point>
+          <coordinates>9.2054825999999998,45.457178999999996</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>12521</name>
+        <address>Via Roma, 16, 20090 Cesano Boscone MI, Italy</address>
+        <styleUrl>#redColorIcon</styleUrl>
+        <Point>
+          <coordinates>9.0905962999999996,45.445650899999997</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>12522</name>
+        <address>Via Alberelle, 31, 20089 Rozzano MI, Italy</address>
+        <styleUrl>#orangeColorIcon</styleUrl>
+        <Point>
+          <coordinates>9.1595615000000006,45.397915699999999</coordinates>
+        </Point>
+      </Placemark>
+      
+      <Placemark>
+        <name>13172</name>
+        <address>Via Leopoldo Cicognara, 6, 20129 Milano MI, Italy</address>
+        <styleUrl>#redColorIcon</styleUrl>
+        <Point>
+          <coordinates>9.2215810999999999,45.468825000000002</coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+  </Document>
+</kml>
